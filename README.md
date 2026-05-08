@@ -22,7 +22,7 @@ while preserving the structure and logic of analysis.
   feature engineering and metrics calculation for procurement and stock.
 - `data/` – small demo CSV/Excel files with anonymized sample data
   that mirror the structure of real datasets.
-- `images/` – screenshots of the Power BI dashboard and key tables.
+- `images/` – .pdf of the Power BI dashboard and key tables.
 - `README.md` – project description and usage notes.
 
 ## Tech stack
